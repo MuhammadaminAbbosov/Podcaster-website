@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Source+Sans+Pro:wght@400;600;700;900&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    min-height: 100vh;
+    background-color: #1C0030;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo p {
+    font-family: 'Source Sans Pro', sans-serif;
+}
